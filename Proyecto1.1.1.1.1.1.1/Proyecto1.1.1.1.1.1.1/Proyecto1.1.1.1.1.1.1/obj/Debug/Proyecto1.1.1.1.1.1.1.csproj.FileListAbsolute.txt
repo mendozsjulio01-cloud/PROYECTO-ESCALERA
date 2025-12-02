@@ -1,0 +1,14 @@
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\bin\Debug\Proyecto1.1.1.1.1.1.1.exe.config
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\bin\Debug\Proyecto1.1.1.1.1.1.1.exe
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\bin\Debug\Proyecto1.1.1.1.1.1.1.pdb
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\obj\Debug\Proyecto1.1.1.1.1.1.1.csproj.AssemblyReference.cache
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\obj\Debug\Proyecto1._1._1._1._1._1._1.Form1.resources
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\obj\Debug\Proyecto1._1._1._1._1._1._1.Properties.Resources.resources
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\obj\Debug\Proyecto1.1.1.1.1.1.1.csproj.GenerateResource.cache
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\obj\Debug\Proyecto1.1.1.1.1.1.1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\obj\Debug\Proyecto1.1.1.1.1.1.1.exe
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\obj\Debug\Proyecto1.1.1.1.1.1.1.pdb
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\obj\Debug\Proyecto1.1.1.1.1.1.1.exe.config
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\bin\Debug\System.IO.Ports.dll
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\bin\Debug\System.IO.Ports.xml
+C:\Users\Usuario1\source\repos\Arduino-Visual\Proyecto1.1.1.1.1.1.1\Proyecto1.1.1.1.1.1.1\obj\Debug\Proyecto.00D601DE.Up2Date
